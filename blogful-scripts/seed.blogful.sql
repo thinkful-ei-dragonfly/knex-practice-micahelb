@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+    ('blog01', now() - '20 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog02', now() - '19 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog03', now() - '18 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog04', now() - '17 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog05', now() - '16 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog06', now() - '15 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog07', now() - '14 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog08', now() - '13 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog09', now() - '12 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog10', now() - '11 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog11', now() - '10 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog12', now() - '09 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog13', now() - '08 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog14', now() - '07 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog15', now() - '06 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog16', now() - '05 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog17', now() - '04 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog18', now() - '03 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog19', now() - '02 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'),
+    ('blog20', now() - '01 days'::INTERVAL, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt')
